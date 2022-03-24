@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.input{
+    text-align: center;
+    position: relative;
+    top: 30px;
+}
+
+input[type = text]{
+    height: 50px;
+    width: 600px;
+    background-color: aliceblue;
+
+}
+input[type = submit]{
+    height: 50px;
+    width: 300px;
+    background-color: rgb(77, 104, 77);
+    color: white;
+    font-family: 'Nonito', sans-serif;
+    font-weight: bold;
+}
+
+.content{
+    /* text-align: center; */
+    height: 500px;
+    width: 800px;
+    background-color: rgb(207, 198, 198);
+    position: relative;
+    left: 20em;
+    top: 30px;
+}
+

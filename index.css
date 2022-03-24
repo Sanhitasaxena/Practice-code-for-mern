@@ -1,0 +1,21 @@
+#heading-one{
+    background-color: red;
+    position: relative;
+    left: 20em;
+    font-size: 2em;
+    letter-spacing: 2;
+} 
+
+#para{
+    background-color: bisque;
+}
+
+#btn{
+    position: relative;
+    top: 20px;
+}
+
+#cardDiv{
+    background-color: black;
+    color: white;
+}
